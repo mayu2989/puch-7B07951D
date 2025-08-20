@@ -1,4 +1,4 @@
-# MST - Pucgh AI Hackathon Project
+# MST - Puch AI Hackathon Project
 
 ## 💡 Project Introduction
 Welcome to the official repository for the MST team's project for the Pucgh AI Hackathon! Our project is a demonstration of our skills in leveraging artificial intelligence and machine learning to build a solution to a real-world problem.
