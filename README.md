@@ -51,7 +51,7 @@ python main.py
 
 ## 🤝 Team MST
 This project was a collaborative effort by the following team members:
-- **[Member Name 1]** - Role (e.g., Backend Developer, AI Engineer)
+- **Smit Patil** - Role (e.g., Backend Developer, AI Engineer)
 - **[Member Name 2]** - Role (e.g., Data Scientist, Frontend Developer)
 - **[Member Name 3]** - Role (e.g., Project Manager, UX Designer)
 
