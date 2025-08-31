@@ -15,22 +15,22 @@ This repository serves as both a practice ground and a final showcase of our wor
 This section highlights the key functionalities of our project:
 
 **Resume Checker**
--An AI-powered tool that provides expert feedback on resume content and formatting.
+- An AI-powered tool that provides expert feedback on resume content and formatting.
 
--ATS Compatibility Score: Analyzes the resume's structure and keywords to predict its performance with Applicant Tracking Systems.
+- ATS Compatibility Score: Analyzes the resume's structure and keywords to predict its performance with Applicant Tracking Systems.
 
--Keyword Optimization: Identifies and suggests keywords from job descriptions to improve relevance.
+- Keyword Optimization: Identifies and suggests keywords from job descriptions to improve relevance.
 
--Action Verb Analysis: Evaluates the use of strong action verbs to create a more impactful professional summary.
+- Action Verb Analysis: Evaluates the use of strong action verbs to create a more impactful professional summary.
 
 **Emotional Music Suggestor**
--A smart music recommendation engine that curates playlists based on a user's emotional state.
+- A smart music recommendation engine that curates playlists based on a user's emotional state.
 
--Mood-Based Curation: Takes emotional input (e.g., "calm," "energetic") and matches it with songs from a diverse music database.
+- Mood-Based Curation: Takes emotional input (e.g., "calm," "energetic") and matches it with songs from a diverse music database.
 
--Genre Filtering: Allows users to refine suggestions by their preferred music genre (e.g., pop, lo-fi, classical).
+- Genre Filtering: Allows users to refine suggestions by their preferred music genre (e.g., pop, lo-fi, classical).
 
--Personalized Suggestions: Returns specific song titles, artists, and descriptions to provide immediate, actionable recommendations.
+- Personalized Suggestions: Returns specific song titles, artists, and descriptions to provide immediate, actionable recommendations.
 
 ## 🚀 Getting Started
 This guide will help you set up the project locally for development or testing.
