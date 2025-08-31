@@ -4,17 +4,33 @@
 Welcome to the official repository for the MST team's project for the Puch AI Hackathon! Our project is a demonstration of our skills in leveraging artificial intelligence and machine learning to build a solution to a real-world problem.
 
 ### Project Focus
-- **What it does**: [Briefly state what your project does, e.g., "An AI-driven platform that assists users in making informed decisions based on data analysis."]
-- **Main Goal**: [Explain the main goal of your project, e.g., "To simplify complex data interpretation and provide instant insights."]
+- **What it does**: Resume Checker: An AI tool that analyzes and improves resumes by checking for ATS compatibility, keywords, and common writing errors.
+                    Emotional Music Suggestor: An AI tool that recommends music based on a user's emotional state to help them find the perfect song for their mood.
+  
+- **Main Goal**:This repository hosts an MCP Server built with FastAPI for the Puch AI Hackathon. It explores the creation and deployment of AI-powered tools as a service. The project showcases two key AI-driven tools: a resume analyzer and an emotional music suggestor. This provides a practical example of how to build and manage custom AI tools for an agent.
 
 This repository serves as both a practice ground and a final showcase of our work, encapsulating our journey from ideation to implementation.
 
 ## ✨ Features
 This section highlights the key functionalities of our project:
 
-- **AI-Powered Chatbot**: Provides instant and accurate responses to user queries.
-- **Sentiment Analysis**: Analyzes user input to understand emotions and tailor responses accordingly.
-- **Knowledge Retrieval**: Pulls information from a custom knowledge base for grounded answers.
+**Resume Checker**
+-An AI-powered tool that provides expert feedback on resume content and formatting.
+
+-ATS Compatibility Score: Analyzes the resume's structure and keywords to predict its performance with Applicant Tracking Systems.
+
+-Keyword Optimization: Identifies and suggests keywords from job descriptions to improve relevance.
+
+-Action Verb Analysis: Evaluates the use of strong action verbs to create a more impactful professional summary.
+
+**Emotional Music Suggestor**
+-A smart music recommendation engine that curates playlists based on a user's emotional state.
+
+-Mood-Based Curation: Takes emotional input (e.g., "calm," "energetic") and matches it with songs from a diverse music database.
+
+-Genre Filtering: Allows users to refine suggestions by their preferred music genre (e.g., pop, lo-fi, classical).
+
+-Personalized Suggestions: Returns specific song titles, artists, and descriptions to provide immediate, actionable recommendations.
 
 ## 🚀 Getting Started
 This guide will help you set up the project locally for development or testing.
@@ -23,16 +39,16 @@ This guide will help you set up the project locally for development or testing.
 You will need the following software installed on your machine:
 - **Python 3.8 or higher**
 - **Git**
-- **AI Framework**: [Specify the framework, e.g., "PyTorch or TensorFlow"]
+- **AI Framework**: **spaCy** and **TextBlob**
 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/[your-username]/[your-repo-name].git
+   git clone https://github.com/mayu2989/puch-7B07951D.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd [your-repo-name]
+   cd puch-7B07951D
    ```
 3. **Install the required dependencies**:
    ```bash
@@ -51,21 +67,6 @@ python main.py
 
 ## 🤝 Team MST
 This project was a collaborative effort by the following team members:
-- **Smit Patil** - Role (e.g., Backend Developer, AI Engineer)
-- **[Member Name 2]** - Role (e.g., Data Scientist, Frontend Developer)
-- **[Member Name 3]** - Role (e.g., Project Manager, UX Designer)
-
-## 📄 License
-This project is licensed under the [Choose a license, e.g., MIT License]. See the LICENSE file for more details.
-
-## 🙏 Acknowledgments
-We would like to thank the organizers and sponsors of the Pucgh AI Hackathon for providing us with this opportunity to learn and innovate.
-
----
-
-### Note:
-Please replace the bracketed [ ] information with the specifics of your project before publishing.
-
---- 
-
-This structured format provides clarity and makes it easy for users to understand the project, its setup, and its features.
+- **Tushar Tiple**
+- **Mayuresh Itankar**
+- **Smit Patil**
