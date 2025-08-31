@@ -1,7 +1,7 @@
 # MST - Puch AI Hackathon Project
 
 ## 💡 Project Introduction
-Welcome to the official repository for the MST team's project for the Pucgh AI Hackathon! Our project is a demonstration of our skills in leveraging artificial intelligence and machine learning to build a solution to a real-world problem.
+Welcome to the official repository for the MST team's project for the Puch AI Hackathon! Our project is a demonstration of our skills in leveraging artificial intelligence and machine learning to build a solution to a real-world problem.
 
 ### Project Focus
 - **What it does**: [Briefly state what your project does, e.g., "An AI-driven platform that assists users in making informed decisions based on data analysis."]
